@@ -1,0 +1,8 @@
+{
+  "app": {
+    "parameters": {
+      "parent_dropdown" : { "label": "Partner Dropdown" },
+      "child_dropdown" : { "label": "Customer Dropdown" }
+    }
+  }
+}

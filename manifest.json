@@ -1,0 +1,25 @@
+{
+  "name": "Conditional Dropdown Application",
+  "author": {
+    "name": "Shani",
+    "email": "ytang@zendesk.com"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "version": "1.0",
+  "frameworkVersion": "1.0",
+  "parameters": [
+    {
+      "name": "parent_dropdown",
+      "type": "text",
+      "required": true,
+      "secure": false
+    },
+    {
+      "name": "child_dropdown",
+      "type": "text",
+      "required": true,
+      "secure": false
+    }
+  ]
+}
