@@ -2,26 +2,28 @@
 
 # Conditional Dropdown app
 
-This app allows users to control the Customer dropdown list through the Partner dropdown list.
+This app allows users to control one dropdown list through the other dropdown list.
+
 
 ### Required setup for the app:
 
-- Customer field is tagged with the partner they belong to
+E.g. "Customer" field is tagged with the "Partner" they belong to
 
-E.g.
+"Partner" drop-down field setting:
 
-Partner:
 * Title:	Partner1
 * Tag:	partner1
 
-Customer:
+"Customer" drop-down field setting:
+
 * Title:	Customer1
 * Tag:	partner1_customer1
 
+
 ### Settings required for the app:
 
-* The ID of the Partner field
-* The ID of Customer field
+* The ID of the "Partner" field
+* The ID of "Customer" field
 
 Please submit bug reports to [Zendesk](https://support.zendesk.com/requests/new). Pull requests are welcome.
 
