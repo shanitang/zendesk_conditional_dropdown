@@ -1,8 +1,16 @@
 {
   "app": {
     "parameters": {
-      "parent_dropdown" : { "label": "Partner Dropdown" },
-      "child_dropdown" : { "label": "Customer Dropdown" }
+      "parent_dropdown" : { "label": "Parent Dropdown" },
+      "child_dropdown" : { "label": "Child Dropdown" },
+      "parent_dropdown2" : { "label": "Parent Dropdown" },
+      "child_dropdown2" : { "label": "Child Dropdown" },
+      "parent_dropdown3" : { "label": "Parent Dropdown" },
+      "child_dropdown3" : { "label": "Child Dropdown" },
+      "parent_dropdown4" : { "label": "Parent Dropdown" },
+      "child_dropdown4" : { "label": "Child Dropdown" },
+      "parent_dropdown5" : { "label": "Parent Dropdown" },
+      "child_dropdown5" : { "label": "Child Dropdown" }
     }
   }
 }
