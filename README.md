@@ -3,27 +3,28 @@
 # Conditional Dropdown app
 
 This app allows users to control one dropdown list through the other dropdown list.
+It allows users to create up to five different parent-child dropdowns.
 
 
 ### Required setup for the app:
 
-E.g. "Customer" field is tagged with the "Partner" they belong to
+E.g. "Child" field is tagged with the "Parent" they belong to
 
-"Partner" drop-down field setting:
+"Parent" drop-down field setting:
 
-* Title:	Partner1
-* Tag:	partner1
+* Title : Parent1
+* Tag   : parent1
 
-"Customer" drop-down field setting:
+"Child" drop-down field setting:
 
-* Title:	Customer1
-* Tag:	partner1_customer1
+* Title : Child1
+* Tag   : parent1_child1
 
 
 ### Settings required for the app:
 
-* The ID of the "Partner" field
-* The ID of "Customer" field
+* The ID of the "Parent" field
+* The ID of the "Child" field
 
 Please submit bug reports to [Zendesk](https://support.zendesk.com/requests/new). Pull requests are welcome.
 

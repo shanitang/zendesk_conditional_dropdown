@@ -1,8 +1,8 @@
 {
   "app": {
     "parameters": {
-      "parent_dropdown" : { "label": "Parent Dropdown" },
-      "child_dropdown" : { "label": "Child Dropdown" },
+      "parent_dropdown1" : { "label": "Parent Dropdown" },
+      "child_dropdown1" : { "label": "Child Dropdown" },
       "parent_dropdown2" : { "label": "Parent Dropdown" },
       "child_dropdown2" : { "label": "Child Dropdown" },
       "parent_dropdown3" : { "label": "Parent Dropdown" },

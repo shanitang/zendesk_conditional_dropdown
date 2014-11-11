@@ -12,13 +12,13 @@
   "noTemplate": true,
   "parameters": [
     {
-      "name": "parent_dropdown",
+      "name": "parent_dropdown1",
       "type": "text",
       "required": false,
       "secure": false
     },
     {
-      "name": "child_dropdown",
+      "name": "child_dropdown1",
       "type": "text",
       "required": false,
       "secure": false
